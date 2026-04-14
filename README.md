@@ -6,59 +6,66 @@
 
 <body>
 
-<center>
-
-<h1>📦✨ Email Application Project (ZIP)</h1>
-
-<hr>
+<h1>📦 Documentación del Proyecto (ZIP)</h1>
 
 <p>
-<b>Este archivo ZIP</b> contiene una aplicación de correo electrónico modular.
+Este archivo ZIP contiene un sistema completo y estructurado para una aplicación de correo electrónico.
 </p>
 
 <p>
-Está diseñada como una base para simular una <b>app moderna de mensajería</b>.
-</p>
-
-<br>
-
-<h3>⚡ Objetivo del proyecto</h3>
-
-<p>
-Mostrar la estructura, organización y lógica básica de una aplicación tipo email.
+El proyecto está dividido en múltiples partes internas que trabajan juntas para formar una aplicación funcional.
+No se trata únicamente de una interfaz visual, sino de un sistema más extenso con lógica, estructura y componentes separados.
 </p>
 
 <hr>
 
-<h3>🧩 Incluye</h3>
+<h2>🧠 Descripción general</h2>
+
+<p>
+El proyecto simula el comportamiento de una aplicación de correo electrónico real, incluyendo manejo de datos,
+interacción del usuario y organización interna de los módulos.
+</p>
+
+<hr>
+
+<h2>📁 Estructura del ZIP</h2>
+
+<p>
+El archivo comprimido puede incluir diferentes carpetas y archivos como:
+</p>
 
 <ul>
-    <li>📥 Bandeja de entrada (Inbox)</li>
-    <li>📧 Vista de lectura de correos</li>
-    <li>✍️ Sistema de redacción de mensajes</li>
-    <li>⚙️ Interacciones básicas de usuario</li>
-    <li>🎨 Interfaz moderna y organizada</li>
+    <li>Módulo de interfaz de usuario</li>
+    <li>Módulo de gestión de correos</li>
+    <li>Módulo de composición de mensajes</li>
+    <li>Archivos de configuración</li>
+    <li>Recursos y elementos internos del sistema</li>
 </ul>
 
 <hr>
 
-<h3>🚀 Tecnologías usadas</h3>
+<h2>⚙️ Funcionalidad general</h2>
 
 <p>
-HTML + CSS + JavaScript
+El sistema permite simular el flujo de un correo electrónico, incluyendo la recepción, visualización y creación de mensajes.
+La estructura está diseñada para ser ampliable y adaptable a futuras mejoras.
 </p>
 
 <hr>
 
+<h2>🎯 Propósito del proyecto</h2>
+
 <p>
-🧠 Proyecto pensado como base de aprendizaje y escalabilidad para futuras mejoras.
+El objetivo principal es demostrar la organización de un sistema modular y la construcción de una aplicación más compleja que una simple página web.
 </p>
 
-<br>
+<hr>
 
-<small>✨ Hecho para demostrar estructura y creatividad en frontend</small>
+<h2>🚀 Notas finales</h2>
 
-</center>
+<p>
+Este proyecto representa una base de desarrollo más avanzada que integra diferentes partes funcionales dentro de un mismo sistema comprimido.
+</p>
 
 </body>
 </html>
